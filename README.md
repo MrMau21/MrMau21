@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning in the world of mathematics in programming
 - 💞️ I'm looking to collaborate on a new project where I can learn something new
 
-<h2 align="center">some math topics that I am dedicating myself</h2>
+<h2 align="center">Some math topics that I am dedicating myself</h2>
 
 - Algebra 
 
