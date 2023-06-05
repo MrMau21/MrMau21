@@ -17,7 +17,7 @@
 
 - Probability and Statistics
 
-<h2 align="center">I am working on the following programming language and Tools</h2>
+<h2 align="center">I am studying in the following programming language and tools</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 
